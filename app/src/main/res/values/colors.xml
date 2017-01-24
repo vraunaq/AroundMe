@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F44336</color>
+    <color name="colorPrimaryDark">#D32F2F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <!-- Background color for the event category -->
+    <color name="category_event">#FF8A80</color>
+
+    <!-- Background color for the event category -->
+    <color name="category_hotels">#FF8A80</color>
+
+    <!-- Background color for the event category -->
+    <color name="category_flea">#FF8A80</color>
+
+    <!-- Background color for the event category -->
+    <color name="category_food">#FF8A80</color>
+
+    <!-- Background color for app -->
+    <color name="tan_background">#FF8A80</color>
+
+
+    <color name="app_background">#FFCDD2</color>
+
+
+</resources>

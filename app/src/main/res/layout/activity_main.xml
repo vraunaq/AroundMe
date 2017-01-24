@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.vraun.ediot.MainActivity"
+    android:orientation="vertical">
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/events_category"
+        android:id="@+id/event_text_view"
+        android:layout_weight="1"
+        android:textSize="@dimen/text_size"
+        android:padding="@dimen/padding"
+        android:background="@color/app_background"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/food_category"
+        android:layout_weight="1"
+        android:textSize="@dimen/text_size"
+        android:id="@+id/food_text_view"
+        android:padding="@dimen/padding"
+        android:background="@color/app_background"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/flea_category"
+        android:layout_weight="1"
+        android:textSize="@dimen/text_size"
+        android:id="@+id/flea_text_view"
+        android:padding="@dimen/padding"
+        android:background="@color/app_background"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/hotels_category"
+        android:layout_weight="1"
+        android:textSize="@dimen/text_size"
+        android:id="@+id/hotel_text_view"
+        android:padding="@dimen/padding"
+        android:background="@color/app_background"
+        />
+
+
+</LinearLayout>

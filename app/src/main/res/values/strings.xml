@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">AroundMe</string>
+    <string name="title_activity_event">event</string>
+    <string name="events_category"> Events</string>
+    <string name="hotels_category">Hotels</string>
+    <string name="flea_category">Flea-Markets</string>
+    <string name="food_category"> Food</string>
+
+    <string name="event_1">International Balloon Art Festival</string>
+    <string name="event_2">Lean and Strong Food Festival at DIVA</string>
+    <string name="event_3">India Art Festival 2017</string>
+    <string name="event_4">Lodhi Garden Walk</string>
+    <string name="event_5">Book Reading: Shashi Kapoor</string>
+    <string name="event_6">I Will Go Out</string>
+    <string name="event_7">Wild Tokai 2017</string>
+    <string name="event_8">Ghetto Chilldren at Jazz by the Park</string>
+
+    <string name="event_desc_1">Select CityWalk </string>
+    <string name="event_desc_2">Cafe Diva</string>
+    <string name="event_desc_3">Thyagaraj Sports Complex</string>
+    <string name="event_desc_4">Lodhi Garden</string>
+    <string name="event_desc_5">Serendipity Delhi</string>
+    <string name="event_desc_6">ITO</string>
+    <string name="description7">Blue Tokai Coffee Roasters</string>
+    <string name="description8">Le Bistro du Parc</string>
+
+    <string name="food_1">The All American Diner</string>
+    <string name="food_2">Cafe Rooftop</string>
+    <string name="food_3">The Vintage Avenue</string>
+    <string name="food_4">One-Up</string>
+    <string name="food_5">Underdogs</string>
+    <string name="food_6">Submarine</string>
+    <string name="food_7">Bercos</string>
+    <string name="food_8">Area 1440</string>
+
+    <string name="food_desc1">Lodhi Road</string>
+    <string name="food_desc2">Satya Niketan</string>
+    <string name="food_desc3">Hudson Lane</string>
+    <string name="food_desc4">Civil Lines</string>
+    <string name="food_desc5">Gurgaon</string>
+    <string name="food_desc6">Punjabi Bagh</string>
+    <string name="food_desc7">Rithala</string>
+    <string name="food_desc8">Lajpat Nagar</string>
+
+    <string name="hotel_1">JW Marriott Hotel</string>
+    <string name="hotel_2">The Lalit</string>
+    <string name="hotel_3">Hyatt Regencyl</string>
+    <string name="hotel_4">Le Meridien</string>
+    <string name="hotel_5">Hotel Ajanta</string>
+    <string name="hotel_6">Hilton Garden Inn</string>
+    <string name="hotel_7">Vivanta by Taj </string>
+    <string name="hotel_8">The Metropolitan Hotel</string>
+
+    <string name="hotel_desc">New Delhi</string>
+
+    <string name="flea_1">Bangle Market</string>
+    <string name="flea_2">Gaffar Market</string>
+    <string name="flea_3">SN Market</string>
+    <string name="flea_4">Janpath</string>
+    <string name="flea_5">Palika Bazar</string>
+    <string name="flea_6">Dilli Haat</string>
+    <string name="flea_7">Khan Market</string>
+    <string name="flea_8">GK Market</string>
+
+    <string name="flea_desc1">Hanuman Mandir</string>
+    <string name="flea_desc2">Karol Bagh</string>
+    <string name="flea_desc3">Sarojni Nagar</string>
+    <string name="flea_desc4">Connaught Place</string>
+    <string name="flea_desc5">Connaught Place</string>
+    <string name="flea_desc6">INA</string>
+    <string name="flea_desc7">Khan Market</string>
+    <string name="flea_desc8">Grater Kailsh</string>
+</resources>
